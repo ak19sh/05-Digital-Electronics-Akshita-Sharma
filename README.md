@@ -1,2 +1,2 @@
-# IC-2k26-05-DE-lab-Akshita-Sharma
+05-Digital-Electronics-Akshita-Sharma
  this is my DE lab repository 
